@@ -34,7 +34,7 @@
     },
     {
       "name": "ps2 - Nethersx2 Turnip",
-      "uniqueId": "xyz.aethersx2.tturnip",
+      "uniqueId": "ps2.xyz.aethersx2.tturnip",
       "description": "Supported extensions: iso, chd, gz.",
       "acceptedFilenameRegex": "^(.*).(?:iso|chd|gz|mdf|bin)$",
       "amStartArguments": "-n xyz.aethersx2.tturnip/.EmulationActivity\n -a android.intent.action.MAIN\n -e bootPath {file.uri}\n --activity-clear-task\n --activity-clear-top\n ",
